@@ -1,6 +1,6 @@
 # A pedagogical tour of the Fourier transform with applications to NMR and IR spectroscopy
 
-<img width="542" alt="Screenshot 2024-10-31 at 11 00 26 AM" src="https://github.com/user-attachments/assets/1d820b1b-beda-4025-9ff5-c8dae3eb9e9c">
+<!--img width="542" alt="Screenshot 2024-10-31 at 11 00 26 AM" src="https://github.com/user-attachments/assets/1d820b1b-beda-4025-9ff5-c8dae3eb9e9c"-->
 
 <img width="300" align="right" alt="Screenshot 2024-10-31 at 11 00 26 AM" src="https://github.com/user-attachments/assets/1d820b1b-beda-4025-9ff5-c8dae3eb9e9c">
 
