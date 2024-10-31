@@ -1,4 +1,6 @@
-# Fourier Transform Tutorial for Chemists
+# A pedagogical tour of the Fourier transform with applications to NMR and IR spectroscopy
+
+[FID-fig.pdf](https://github.com/user-attachments/files/17590866/FID-fig.pdf)
 
 Welcome to the **Fourier Transform Tutorial** repository, designed to help chemists understand the principles and applications of Fourier Transforms (FT) in NMR and IR spectroscopy. Using Python, this tutorial provides hands-on activities and guided notebooks that cover key FT concepts as applied to spectral data.
 
