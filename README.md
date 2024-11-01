@@ -37,8 +37,4 @@ If you would like to cite this work, please refer to the following publication (
 
 > Dominic III, A. J.; Cipolla, N. L.; Pfalzgraff, W. C.; Jankowski, J. A.; Rapf, R. J.; Montoya-Castillo, A.
 > A pedagogical tour of the Fourier transform with applications to NMR and IR spectroscopy.
-> *J. Chem. Educ.*
-> **2024**,
-> TBD
-
-- 
+> Citation TBD
