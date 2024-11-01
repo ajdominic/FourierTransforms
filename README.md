@@ -32,6 +32,13 @@ This repository contains:
    - **Activity_1_Key.ipynb**, **Activity_2_Key.ipynb**, **Activity_3_Key.ipynb**: Solution notebooks for each activity.
    - **Prelab_Key.ipynb**: Solution to the prelab notebook.
 
-## Requirements
+## Citation 
+If you would like to cite this work, please refer to the following publication ([BibTeX](DFT_ref.bib)):
+
+> Dominic III, A. J.; Cipolla, N. L.; Pfalzgraff, W. C.; Jankowski, J. A.; Rapf, R. J.; Montoya-Castillo, A.
+> A pedagogical tour of the Fourier transform with applications to NMR and IR spectroscopy.
+> *J. Chem. Educ.*
+> **2024**,
+> TBD
 
 - 
