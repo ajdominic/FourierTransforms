@@ -25,13 +25,14 @@ This repository contains:
    - **Acquisition Parameters.png**: Image detailing the data acquisition parameters from the NMR experiment.
 
 2. **activities**
-   - **Activity_1.ipynb**, **Activity_2.ipynb**, **Activity_3.ipynb**: Interactive Jupyter Notebooks for each activity, guiding users through FT applications in spectroscopy.
    - **Prelab.ipynb**: A pre-lab notebook to familiarize users with Fourier Transform basics before starting the main activities.
+   - **Activity_1.ipynb**, **Activity_2.ipynb**, **Activity_3.ipynb**: Interactive Jupyter notebooks for each activity, guiding users through FT applications in spectroscopy.
+   - **Streamlined.ipynb**: Interactive Jupyter notebooks for each activity, combining the highlights of **Activity_1.ipynb** and **Activity_2.ipynb** with less emphasis on coding.
 
-3. **keys**
-   - **Activity_1_Key.ipynb**, **Activity_2_Key.ipynb**, **Activity_3_Key.ipynb**: Solution notebooks for each activity.
+4. **keys**
    - **Prelab_Key.ipynb**: Solution to the prelab notebook.
    - **Prelab_math_Key.ipynb**: Solution to the math sections of the prelab with sample plots.
+   - **Activity_1_Key.ipynb**, **Activity_2_Key.ipynb**, **Activity_3_Key.ipynb**, **Streamlined.ipynb**: Solution notebooks for each activity.
 
 ## Citation 
 If you would like to cite this work, please refer to the following publication ([BibTeX](DFT_ref.bib)):
